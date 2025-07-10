@@ -1,0 +1,17 @@
+{
+  "apiName": "saas_module",
+  "label": {
+    "zh_CN": "saas_module",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "saas module 组件描述",
+    "en_US": "saas module component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
